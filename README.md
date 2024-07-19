@@ -7,7 +7,7 @@
 
 🎓 I am a **Full Stack Developer** with expertise in both **Front-End and Back-End technologies**.  I hold a Bachelor's degree in **Computer Science & Engineering**.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have worked on projects for significant organizations, including **Microsoft** and **Amazon**. I am enthusiastic about learning new technologies, having recently explored **Cloud Computing**, **Microservices Architecture**, and **Mobile App Development**.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have worked on projects for significant organizations, including **Microsoft** and **Amazon**. I am enthusiastic about learning new technologies, having recently explored **Cloud Computing**, **Microservices Architecture**, **AI** and **Mobile App Development**.
 
 🎸 Outside the world of tech, I enjoy developing new skills. My hobbies range from **guitar**, **breakdancing**, **sketching**, and **cooking** to unique interests like **traveling**.
 
@@ -18,7 +18,7 @@
 ## 🏅 Achievements
 
 - 🏆 Contributed to high-profile projects for organizations like **Microsoft** and **Amazon**
-- ⏫ Developed a successful social travel platform, increasing user engagement by 30%
+- ⏫ Developed a successful social travel platform, increasing user engagement
 - ⭐ Led the development of multiple high-impact applications in various domains
 - 🥇 Winner of numerous coding competitions and hackathons
 
@@ -72,7 +72,6 @@
 ![asp.net](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![websocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Database
 
