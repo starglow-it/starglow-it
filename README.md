@@ -22,6 +22,9 @@
 - ⭐ Led the development of multiple high-impact applications in various domains
 - 🥇 Winner of numerous coding competitions and hackathons
 
+
+[![starglow-it's GitHub | Languages Over Time](https://stats.quira.sh/starglow-it/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=starglow-it)
+
 ## 🛠️ Skills
 
 ### Languages
