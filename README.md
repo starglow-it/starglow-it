@@ -2,6 +2,7 @@
 <h3 align="center">Driven Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starglow-it&label=Profile%20views&color=0e75b6&style=flat" alt="starglow-it" /> </p>
+[![Follow me on GitHub](https://img.shields.io/github/followers/starglow-it?label=Follow&style=social)](https://github.com/starglow-it)
 
 ## 🚀 About Me
 
