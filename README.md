@@ -28,12 +28,12 @@
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Golang](https://img.shields.io/badge/Golang-239120?style=for-the-badge&logo=golang&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-[![Go Reference](https://pkg.go.dev/badge/your/package/name.svg)](https://pkg.go.dev/your/package/name)
+
 
 ### Front-End Development
 
